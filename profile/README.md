@@ -1,3 +1,5 @@
+<img src="https://www.lboro.ac.uk/media/wwwlboroacuk/external/content/schoolsanddepartments/ssehs/photos/670x300/78677%20CLiMB%20Logo%20RGB%20A5.png">
+
 ## Welcome to the CLiMB Github
 
 This is the Github page of the Centre for Lifestyle Medicine and Behaviour (CLiMB) based out of National Centre for Sport and Exercise Medicine (NCSEM) at Loughborough University. The groups website can be found [here](https://www.lboro.ac.uk/research/climb/). 
