@@ -1,4 +1,6 @@
+<center>
 <img src="https://www.lboro.ac.uk/media/wwwlboroacuk/external/content/schoolsanddepartments/ssehs/photos/670x300/78677%20CLiMB%20Logo%20RGB%20A5.png">
+</center>
 
 ## Welcome to the CLiMB Github
 
